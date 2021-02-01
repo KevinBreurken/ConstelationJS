@@ -8,3 +8,6 @@ canvas { display:block; } /* To remove the scrollbars */
     width: auto;
     height: auto;
 }
+body {
+    overflow: hidden; /* Hide scrollbars */
+}
